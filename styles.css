@@ -10,11 +10,13 @@
 .box{
 	
 	background-color:white;
-	padding:10px;
-	margin:10px;
 	
+	margin:10px;
+	text-align:right;
 	
 }
 .child{
-	text-align:right;
+	background-color:white;
+	
+	margin:10px;
 }
