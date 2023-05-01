@@ -1,9 +1,4 @@
-/*  your css code here. If applicable */
-*{
-	padding:0;
-	margin:0;
-	box-sizing:border-box;
-}
+
 
 .container{
 	display:block;
@@ -13,8 +8,13 @@
 }
 
 .box{
+	
 	background-color:white;
 	padding:10px;
 	margin:10px;
 	
+	
+}
+.child{
+	text-align:right;
 }
